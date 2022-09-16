@@ -1,0 +1,29 @@
+.home {
+    background: url('https://www.itl.cat/pngfile/big/37-377486_portal-ai-wallpaper-portal-2.jpg');
+}
+
+.aux {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    margin-right: 220px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.aux2 {
+    border-radius: 3px;
+    height: 25px;
+    cursor: crosshair;
+}
+
+.button {
+    width: 100px;
+    height: 25px;
+    background-color: rgba(206, 211, 107, 0.74);
+    margin-left: 5px;
+    border-radius: 5px;
+    border: black;
+    cursor:crosshair;
+}
+

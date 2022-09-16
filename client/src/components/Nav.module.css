@@ -1,0 +1,33 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content:start;
+    background-color: rgba(79, 79, 79, 0.261);
+}
+
+.div {
+    width: 250px;
+    margin-left: 50px;
+}
+
+.text {
+    color: rgb(176, 176, 176);
+    cursor: crosshair;
+}
+
+.gamesapp {
+    color: rgb(206, 211, 107);
+    background-color: rgba(98, 97, 97, 0.187);
+    border-radius: 10px;
+    width: 170px;
+    margin-left: 30px;
+    cursor: crosshair;
+}
+
+a {
+    text-decoration: none;
+}
+
+.searchBar {
+    margin-right: -10px;
+}

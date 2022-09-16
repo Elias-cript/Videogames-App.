@@ -1,0 +1,121 @@
+.error {
+    color: rgba(196, 0, 0, 0.729);
+    margin-top: -45px;
+}
+
+.container {
+    background: url('https://www.itl.cat/pngfile/big/37-377486_portal-ai-wallpaper-portal-2.jpg');
+    width: 1920px;
+    height: 1080px;
+}
+
+.container2 {
+    background-color: rgba(159, 159, 159, 0.347);
+    margin-top: 50px;
+    width: 900px;
+    height: 850px;
+    margin-left: 950px;
+    border-radius: 15px;
+}
+
+.button {
+    color: rgb(34, 15, 15);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    background-color: rgba(106, 106, 106, 0);
+    height: 50px;
+    font-style: oblique;
+    font-size: large;
+    font-weight: 800;
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.524);
+}
+
+.button2 {
+    color: rgb(34, 15, 15);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    background-color: rgba(196, 0, 0, 0.729);
+    height: 45px;
+    font-style: oblique;
+    font-size: large;
+    font-weight: 800;
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.509);
+    cursor: crosshair;
+}
+
+.h1 {
+    font-style:oblique;
+    padding: 20px;
+}
+
+.form {
+    height: 600px;
+    width: 900px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+}
+
+.platformsList {
+    color: rgb(34, 15, 15);
+    background-color: rgba(159, 159, 159, 0.347);
+    margin-top: -34px;
+    height: 560px;
+    border-radius: 10px;
+    border-color: rgb(78, 34, 34);;
+}
+
+.platforms {
+    background-color: rgba(152, 100, 100, 0.415);
+    height: 23px;
+    width: 200px;
+    border-radius: 5px;
+    margin-left: 25px;
+}
+
+.genresList {
+    color: rgb(34, 15, 15);
+    background-color: rgba(159, 159, 159, 0.347);
+    margin-top: -34px;
+    height: 560px;
+    border-radius: 10px;
+    border-color: rgb(78, 34, 34);
+}
+
+.genres {
+    background-color: rgba(152, 100, 100, 0.415);
+    height: 23px;
+    width: 200px;
+    border-radius: 5px;
+    margin-left: 25px;
+}
+
+.text {
+    font-weight: 760;
+    font-size: large;
+    font-style: italic;
+    color: rgb(34, 15, 15);;
+}
+
+.input {
+    height: 30px;
+    width: 250px;
+    border-radius: 10px;
+    border-color: rgb(78, 34, 34);
+    margin-bottom: 50px;
+}
+
+.platgentext {
+    font-weight: 600;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 5px;
+}
+
+.platgenbut {
+    margin-bottom: 15px;
+    background-color: red;
+    height: 10px;
+}

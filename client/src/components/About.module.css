@@ -1,0 +1,39 @@
+.container {
+    background: url('https://www.itl.cat/pngfile/big/37-377486_portal-ai-wallpaper-portal-2.jpg');
+    width: 1920px;
+    height: 1080px;
+}
+
+.container2 {
+    background-color: red;
+    height: 600px;
+    width: 35%;
+    margin-top: 70px;
+    margin-left: 1100px;
+    border-radius: 20px;
+    background-color: rgba(79, 79, 79, 0.261);;
+}
+
+.h1 {
+  font-style: normal;
+}
+
+.p {
+    font-style: italic;
+    font-weight: 600;
+    font-size: large;
+}
+
+.divp {
+    width: 70%;
+    margin-left: 100px;
+    height: 700px;
+}
+
+.saludo {
+    display: flex;
+    justify-content: end;
+    width: 550px;
+    height: 20px;
+    margin-bottom: 5px;
+}

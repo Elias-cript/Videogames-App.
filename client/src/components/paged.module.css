@@ -1,0 +1,21 @@
+.paged {
+    display: flex;
+    justify-content: end;
+    margin-right: 490px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
+.h4 {
+    background-color:rgba(255, 255, 255, 0.222);
+    margin: 5px;
+    width: 27px;
+    height: 23px;
+    border-radius: 2px;
+    font-style: oblique;
+    cursor: pointer;
+}
+
+.hov:hover {
+    color: red;
+}

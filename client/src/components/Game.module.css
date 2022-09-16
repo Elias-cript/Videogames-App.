@@ -1,0 +1,46 @@
+.text {
+    color: rgb(198, 198, 198);
+}
+
+.title {
+    display: grid;
+    margin-left: 36px;
+    color: rgba(20, 7, 7, 0.656);
+    width: 125px;
+}
+
+.image {
+    height: 125px;
+    width: 200px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    cursor: crosshair;
+}
+
+.container {
+    display: grid;
+    align-items:flex-start;
+    background-color: rgba(66, 66, 66, 0.141);
+    border-radius: 15px;
+    height: 280px;
+    width: 200px;
+    margin: 15px;
+    border: rgba(255, 255, 255, 0.216);
+    border-style:groove;
+}
+
+.genres {
+    font-style: italic;
+    display: grid;
+    justify-content: center;
+    grid-template-rows: auto;
+}
+
+.genre {
+    color:  rgba(0, 0, 0, 0.636);
+    font-weight: 400;
+}
+
+
+
+
